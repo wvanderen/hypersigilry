@@ -18,4 +18,4 @@ A repository of computer generated occult art
 3. Sigil of Astaroth [astaroth]<br/>
 ![Alt Text](./assets/gifs/astaroth.gif)
 4. COVEN sigil [coven_sigil]
-<!-- ![Alt Text](./assets/gifs/coven_sigil.gif) -->
+![Alt Text](./assets/gifs/coven_sigil.gif)

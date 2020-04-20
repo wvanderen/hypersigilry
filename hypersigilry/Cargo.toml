@@ -31,4 +31,6 @@ path = "hypersigils/coven_sigil.rs"
 [[example]]
 name = "thelemic_star"
 path = "wips/thelemic_star.rs"
-
+[[example]]
+name = "metatron_cube"
+path = "wips/metatron_cube.rs"
