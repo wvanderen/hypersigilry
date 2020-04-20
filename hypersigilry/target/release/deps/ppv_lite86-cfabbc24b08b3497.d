@@ -1,0 +1,10 @@
+C:\Users\William Van Deren\dev\rust\hypersigilry\target\release\deps\ppv_lite86-cfabbc24b08b3497.rmeta: C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\lib.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\soft.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\types.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\generic.rs
+
+C:\Users\William Van Deren\dev\rust\hypersigilry\target\release\deps\libppv_lite86-cfabbc24b08b3497.rlib: C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\lib.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\soft.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\types.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\generic.rs
+
+C:\Users\William Van Deren\dev\rust\hypersigilry\target\release\deps\ppv_lite86-cfabbc24b08b3497.d: C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\lib.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\soft.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\types.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\generic.rs
+
+C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\lib.rs:
+C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\soft.rs:
+C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\types.rs:
+C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\generic.rs:

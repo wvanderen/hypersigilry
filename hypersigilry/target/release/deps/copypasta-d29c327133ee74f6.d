@@ -1,0 +1,10 @@
+C:\Users\William Van Deren\dev\rust\hypersigilry\target\release\deps\copypasta-d29c327133ee74f6.rmeta: C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\copypasta-0.6.3\src\lib.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\copypasta-0.6.3\src\common.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\copypasta-0.6.3\src\windows_clipboard.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\copypasta-0.6.3\src\nop_clipboard.rs
+
+C:\Users\William Van Deren\dev\rust\hypersigilry\target\release\deps\libcopypasta-d29c327133ee74f6.rlib: C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\copypasta-0.6.3\src\lib.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\copypasta-0.6.3\src\common.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\copypasta-0.6.3\src\windows_clipboard.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\copypasta-0.6.3\src\nop_clipboard.rs
+
+C:\Users\William Van Deren\dev\rust\hypersigilry\target\release\deps\copypasta-d29c327133ee74f6.d: C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\copypasta-0.6.3\src\lib.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\copypasta-0.6.3\src\common.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\copypasta-0.6.3\src\windows_clipboard.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\copypasta-0.6.3\src\nop_clipboard.rs
+
+C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\copypasta-0.6.3\src\lib.rs:
+C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\copypasta-0.6.3\src\common.rs:
+C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\copypasta-0.6.3\src\windows_clipboard.rs:
+C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\copypasta-0.6.3\src\nop_clipboard.rs:

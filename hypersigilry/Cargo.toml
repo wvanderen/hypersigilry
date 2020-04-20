@@ -1,0 +1,34 @@
+[package]
+name = "hypersigilry"
+version = "0.1.0"
+authors = ["wvanderen <wvanderen@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+nannou = "0.13.1"
+nannou_audio = "0.2"
+
+
+# --------------- View Hypersigil works
+# -------------------Chakras
+[[example]]
+name = "anahata"
+path = "chakras/anahata.rs"
+
+# ------------------- Hypersigils
+[[example]]
+name = "qliphothic_star"
+path = "hypersigils/qliphothic_star.rs"
+[[example]]
+name = "astaroth"
+path = "hypersigils/astaroth.rs"
+[[example]]
+name = "coven_sigil"
+path = "hypersigils/coven_sigil.rs"
+# ------------------- WIPs
+[[example]]
+name = "thelemic_star"
+path = "wips/thelemic_star.rs"
+

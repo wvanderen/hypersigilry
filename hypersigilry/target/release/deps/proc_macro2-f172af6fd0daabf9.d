@@ -1,0 +1,10 @@
+C:\Users\William Van Deren\dev\rust\hypersigilry\target\release\deps\proc_macro2-f172af6fd0daabf9.rmeta: C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-0.4.30\src\lib.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-0.4.30\src\strnom.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-0.4.30\src\fallback.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-0.4.30\src\wrapper.rs
+
+C:\Users\William Van Deren\dev\rust\hypersigilry\target\release\deps\libproc_macro2-f172af6fd0daabf9.rlib: C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-0.4.30\src\lib.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-0.4.30\src\strnom.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-0.4.30\src\fallback.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-0.4.30\src\wrapper.rs
+
+C:\Users\William Van Deren\dev\rust\hypersigilry\target\release\deps\proc_macro2-f172af6fd0daabf9.d: C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-0.4.30\src\lib.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-0.4.30\src\strnom.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-0.4.30\src\fallback.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-0.4.30\src\wrapper.rs
+
+C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-0.4.30\src\lib.rs:
+C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-0.4.30\src\strnom.rs:
+C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-0.4.30\src\fallback.rs:
+C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-0.4.30\src\wrapper.rs:

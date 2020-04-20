@@ -1,0 +1,10 @@
+C:\Users\William Van Deren\dev\rust\hypersigilry\target\release\deps\winapi_util-4f5e789c5aedde03.rmeta: C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.4\src\lib.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.4\src\console.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.4\src\file.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.4\src\win.rs
+
+C:\Users\William Van Deren\dev\rust\hypersigilry\target\release\deps\libwinapi_util-4f5e789c5aedde03.rlib: C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.4\src\lib.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.4\src\console.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.4\src\file.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.4\src\win.rs
+
+C:\Users\William Van Deren\dev\rust\hypersigilry\target\release\deps\winapi_util-4f5e789c5aedde03.d: C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.4\src\lib.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.4\src\console.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.4\src\file.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.4\src\win.rs
+
+C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.4\src\lib.rs:
+C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.4\src\console.rs:
+C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.4\src\file.rs:
+C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.4\src\win.rs:

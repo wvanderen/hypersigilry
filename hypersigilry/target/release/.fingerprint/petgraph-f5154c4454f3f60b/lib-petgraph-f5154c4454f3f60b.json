@@ -1,0 +1,1 @@
+{"rustc":8250536934104829415,"features":"[]","target":1763903597339453145,"profile":2574335274271406459,"path":11386307872303915030,"deps":[[10743173825132372176,"fixedbitset",false,7475272108551995274]],"local":[{"CheckDepInfo":{"dep_info":"release\\.fingerprint\\petgraph-f5154c4454f3f60b\\dep-lib-petgraph-f5154c4454f3f60b"}}],"rustflags":[],"metadata":4449509416934107433}

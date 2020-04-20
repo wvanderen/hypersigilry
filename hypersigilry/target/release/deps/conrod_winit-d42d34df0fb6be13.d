@@ -1,0 +1,10 @@
+C:\Users\William Van Deren\dev\rust\hypersigilry\target\release\deps\conrod_winit-d42d34df0fb6be13.rmeta: C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\conrod_winit-0.69.0\./src/lib.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\conrod_winit-0.69.0\./src\macros.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\conrod_winit-0.69.0\./src\v020.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\conrod_winit-0.69.0\./src\v021.rs
+
+C:\Users\William Van Deren\dev\rust\hypersigilry\target\release\deps\libconrod_winit-d42d34df0fb6be13.rlib: C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\conrod_winit-0.69.0\./src/lib.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\conrod_winit-0.69.0\./src\macros.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\conrod_winit-0.69.0\./src\v020.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\conrod_winit-0.69.0\./src\v021.rs
+
+C:\Users\William Van Deren\dev\rust\hypersigilry\target\release\deps\conrod_winit-d42d34df0fb6be13.d: C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\conrod_winit-0.69.0\./src/lib.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\conrod_winit-0.69.0\./src\macros.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\conrod_winit-0.69.0\./src\v020.rs C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\conrod_winit-0.69.0\./src\v021.rs
+
+C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\conrod_winit-0.69.0\./src/lib.rs:
+C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\conrod_winit-0.69.0\./src\macros.rs:
+C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\conrod_winit-0.69.0\./src\v020.rs:
+C:\Users\William\ Van\ Deren\.cargo\registry\src\github.com-1ecc6299db9ec823\conrod_winit-0.69.0\./src\v021.rs:
