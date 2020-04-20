@@ -26,9 +26,6 @@ fn view(app: &App, frame: Frame) {
     // Clear the background to blue.
     draw.background().color(BLACK);
 
-    let perlin = Perlin::new();
-    let val = perlin.get([42.4, 37.7, 2.8]);
-
     // Create two rotating squares, rotating in opposite directions with pulsing colors
     let n_points = 4;
 
