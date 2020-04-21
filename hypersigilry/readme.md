@@ -19,3 +19,5 @@ A repository of computer generated occult art
 ![Alt Text](./assets/gifs/astaroth.gif)
 4. COVEN sigil [coven_sigil]
 ![Alt Text](./assets/gifs/coven_sigil.gif)
+5. Flower of Life [flower_of_life]
+6. Metatron Cube [metatron_cube]

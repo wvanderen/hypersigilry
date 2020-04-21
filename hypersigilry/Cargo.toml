@@ -27,10 +27,14 @@ path = "hypersigils/astaroth.rs"
 [[example]]
 name = "coven_sigil"
 path = "hypersigils/coven_sigil.rs"
+# -------------------- Sacred Geometry
+[[example]]
+name = "metatron_cube"
+path = "sacred-geometry/metatron_cube.rs"
+[[example]]
+name = "flower_of_life"
+path = "sacred-geometry/flower_of_life.rs"
 # ------------------- WIPs
 [[example]]
 name = "thelemic_star"
 path = "wips/thelemic_star.rs"
-[[example]]
-name = "metatron_cube"
-path = "wips/metatron_cube.rs"
